@@ -15,6 +15,7 @@
     rgba(124, 38, 38, 0.69) 84.37%,
     rgba(52, 29, 29, 0.88) 97.69%
   );
+  overflow-x: hidden;
 }
 
 /* Ellipse 1 */
@@ -26,9 +27,11 @@
   height: 332px;
   left: 38px;
   top: 282px;
+  overflow-x: hidden;
 }
 
 img {
   max-width: 100%;
   height: auto;
+  overflow-x: hidden;
 }
