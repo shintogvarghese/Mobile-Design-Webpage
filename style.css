@@ -1,0 +1,34 @@
+.landingPage {
+  position: absolute;
+  width: 414px;
+  height: 896px;
+  left: 0px;
+  top: 0px;
+  background: linear-gradient(
+    180deg,
+    rgba(124, 38, 38, 0.88) 4.17%,
+    rgba(52, 29, 29, 0.79) 18.23%,
+    rgba(124, 38, 38, 0.75) 32.29%,
+    rgba(52, 29, 29, 0.59) 45.31%,
+    rgba(124, 38, 38, 0.58) 58.33%,
+    rgba(52, 29, 29, 0.55) 70.83%,
+    rgba(124, 38, 38, 0.69) 84.37%,
+    rgba(52, 29, 29, 0.88) 97.69%
+  );
+}
+
+/* Ellipse 1 */
+.logo {
+  position: absolute;
+  background: url("kabuki no bg.png");
+  background-size: cover;
+  width: 338px;
+  height: 332px;
+  left: 38px;
+  top: 282px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
